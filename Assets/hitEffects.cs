@@ -10,6 +10,8 @@ using System.Collections;
      */
 public class hitEffects : MonoBehaviour {
 
+
+    //Set up the explosion details before coding the update per frame method
 	// Use this for initialization
 	void Start () {
 	
